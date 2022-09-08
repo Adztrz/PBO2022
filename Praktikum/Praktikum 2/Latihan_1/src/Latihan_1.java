@@ -11,6 +11,6 @@ public class Latihan_1 {
     -> Angka tersebut terlalu besar untuk integer.
 
     Bagaimana memperbaiki source code tersebut?
-    -> Dengan menabmahkan L dibelakang angka agar tipe data variabel p tersebut berubah
+    -> Dengan menambahkan L dibelakang angka agar tipe data dari variabel p tersebut berubah menjadi long.
     */
 
